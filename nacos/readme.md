@@ -1,0 +1,3 @@
+- [nacos下载安装](https://nacos.io/zh-cn/docs/quick-start.html)
+- 默认链接：http://127.0.0.1:8848/nacos/index.html
+    - 用户名密码：nacos nacos
