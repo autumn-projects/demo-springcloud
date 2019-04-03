@@ -6,7 +6,7 @@ import org.springframework.stereotype.Component;
 @Component
 public class Consumer {
 
-    @JmsListener(destination = "ip.queue")
+    @JmsListener(destination = "my_msg")
     public void readMsg(String text) {
         System.out.println("接收到消息：" + text);
 

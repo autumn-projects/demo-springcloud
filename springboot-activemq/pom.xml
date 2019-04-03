@@ -12,8 +12,9 @@
     <artifactId>springboot-activemq</artifactId>
     <packaging>pom</packaging>
     <modules>
-        <module>activemq-consumer</module>
+        <module>activemq-consumer-1</module>
         <module>activemq-provider</module>
+        <module>activemq-consumer-2</module>
     </modules>
 
     <dependencies>
